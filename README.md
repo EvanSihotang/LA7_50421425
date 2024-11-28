@@ -1,0 +1,1 @@
+inisialisasi reporistory git: git init, tambahkan semua file: git add, commit perubahan: git commit -m "Initial commit, tambahkan remote repository github: git remote add origin https....., dorong file ke github: git push -u origin main
